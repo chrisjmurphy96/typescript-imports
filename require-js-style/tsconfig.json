@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": true,
+        "noImplicitAny": false,
+        "module": "amd",
+        "outFile": "./dist/app.js",
+        "sourceMap": true,
+        "moduleResolution": "classic"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
